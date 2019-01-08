@@ -9,7 +9,7 @@ Practice
   
 Design Pattern
 - [ ] [Head First Design Patterns (2004)](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=sr_1_1?s=books&ie=UTF8&qid=1546954880&sr=1-1&keywords=head+first+design+patterns) 
-- [ ] [Agile Software Development, Principles, Patterns, and Practices] (https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/1292025948/ref=dp_ob_title_bk)
+- [ ] [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/1292025948/ref=dp_ob_title_bk)
 - [ ] [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books&ie=UTF8&qid=1546955310&sr=1-4&keywords=design+patterns)  
   
 Mathematics for Game Programming
