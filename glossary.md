@@ -8,3 +8,4 @@
 - [Scene](#): a scene represetns the curent state of your game. You can have multiple scenes that represent individual levels of a game. You can use scenes for a splash screen, or for game over screens, or you can put all of your game content into a single screen, and use coding to hide and show the elements that you need, based on the state of the game. 
 - [Sprite](#): a sprite represents any image that would be rendered in a scene.
 - [Sprite Renderer](#): the Sprite Renderer allows you to display a texture which would represent the sprite in the scene.
+- [String Constant Pool](https://www.journaldev.com/797/what-is-java-string-pool): While the String object is immutable, its reference variable is not. As applications grow, it's very common for string literals to occupy a large area of memory, which can even cause redundancy. In order to make Java more efficient, the JVM sets aside a special area of memory called "string constant pool"
